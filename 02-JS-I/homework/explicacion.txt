@@ -1,0 +1,24 @@
+Variable:
+es un valor que almacenamos para luego llamarlo.
+
+Instrumentos de Cuerda: 
+son todos las caracteres que ingresemos mediante una secuencia de letaras es decir "texto", 
+simpre este va con comillas ya sean simples o dobles.
+
+Funcion Argumnetos:
+los argumenrtos es como asignarles valore a la funcion 
+
+Funcion Return:
+Esta funcion nos devolvera lo que la condicion de la funcion este pidiendo,
+ejemplos:
+if ( carlos < maria ) {
+ return false;
+} return true;
+lo que hace return es devolvernos una respuesta en este ejemplo tenemos dos opciones " true, false"
+
+Declaracion if:
+nos permite hacer condiciones verdadera o falsas 
+
+Valores boolenos:
+es la logica binaria que se trabajo con 00 y 11 enesteb caso Tenemos dos opciones " verdadero o falso" 
+
