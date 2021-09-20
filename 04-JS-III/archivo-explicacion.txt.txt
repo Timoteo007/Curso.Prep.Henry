@@ -1,0 +1,1 @@
+Array: son matrices que nos permite crear contenedores donde podremos guarda una variadad de datos 
