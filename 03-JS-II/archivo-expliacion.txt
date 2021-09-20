@@ -1,0 +1,11 @@
+For: la condicon for es casi lo mismo que las condiciones if, if else y else
+solo que esta cumple con un bucle constante para dar con la respueta que le estan pidiendo
+
+&&:
+ sirve para separa varias condiciones en una misma line && pero && significa "y"
+
+||
+ es lo mismo que && solo que esta significa "o"
+
+! 
+ este significa "no" por lo tanto devolvera el valor booleano opuesto de lo que se le pasa
